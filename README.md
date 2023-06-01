@@ -1,3 +1,3 @@
-Aqui esta a disponibilização das minhas soluções para os problemas do site Beecrowd
+These are my solutions to beecrowd problems.
 
-Por enquanto somente há soluções com Python, mas no futuro pretendo adicionar outras liguagens.
+Mostly in Python, but in the near future I intend to put C and C++
